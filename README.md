@@ -198,7 +198,7 @@ It reflects real-world responsibilities of:
 
 Aishwarya V S
 Aspiring Data Analyst | SQL | Power BI | Python | Tableau | Excel
-
+Linkedin profile : www.linkedin.com/in/aishwarya-v-s-52410b270
 I enjoy turning raw datasets into structured insights that support business decisions.
 
 
