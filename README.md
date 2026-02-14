@@ -15,6 +15,9 @@ The goal was to perform:
 
 This project demonstrates practical SQL skills aligned with **retail, quick-commerce, and product analytics** roles.
 
+<img width="1310" height="651" alt="image" src="https://github.com/user-attachments/assets/2cc3d82b-c748-4ca2-a4a9-438e53938cec" />
+
+
 ---
 
 ## 📊 Dataset Information
